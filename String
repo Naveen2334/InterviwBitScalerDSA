@@ -1,1 +1,27 @@
+#String Math
+
+-------------------------------------------------------------------------------------
+https://www.interviewbit.com/problems/multiply-strings/
+------------------------------------------------------
+public class Solution {
+    public String multiply(String A, String B) {
+        
+        int a = Integer.valueOf(A);
+        int b = Integer.valueOf(B);
+        return String.valueOf(a*b);
+        
+    }
+}
+
+This is the wrong way 
+so correct way to do this question is in this video
+
+https://www.youtube.com/watch?v=cgPqbpcIgoc&t=348s
+
+but i have not understand well so i will see it again
+--------------------------------------------------------------------------------------
+
+#String Search
+
+
 
